@@ -1,1 +1,1 @@
-export { default } from '@km-por-real/pages/home'
+export { default } from '@template/pages/home'

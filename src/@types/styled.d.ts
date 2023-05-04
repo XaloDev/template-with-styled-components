@@ -1,6 +1,6 @@
 import 'styled-components'
 
-import { ThemeType } from '@km-por-real/styles/themes/default'
+import { ThemeType } from '@template/styles/themes/default'
 
 declare module 'styled-components' {
   export interface DefaultTheme extends ThemeType {}
